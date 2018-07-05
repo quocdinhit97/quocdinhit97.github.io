@@ -11,11 +11,15 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .mainheading {
      padding:1rem 0rem;
-     text-align: center;
+
+}
+.center-title{
+    text-align: center;
 }
  a {
      color:#00ab6b;
      transition:all 0.2s;
+}
 }
  a:hover {
      color: #038252;
@@ -372,9 +376,7 @@ License: https://www.wowthemes.net/freebies-license/
      .post-top-meta.authorpage {
          text-align:center;
     }
-    .mainheading{
-        border-bottom: 1px solid #e6e6e6;
-    }
+   
 
 }
  .share,.share a {

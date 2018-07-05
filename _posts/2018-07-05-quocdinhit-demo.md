@@ -4,6 +4,8 @@ title:  "Day la bai post demo"
 author: quocdinhit
 categories: [ demo, tutorial]
 video: Dn3B_8cNmPo
+image: assets/images/biayoutube.jpg
+featured: true
 ---
 The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
 

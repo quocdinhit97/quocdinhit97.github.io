@@ -4,6 +4,7 @@ title:  "Is Intelligence Enough"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
+comments:true
 ---
 Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
 
@@ -16,4 +17,6 @@ The function of education, therefore, is to teach one to think intensively and t
 The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
 
 We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+ 
+
 

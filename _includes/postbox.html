@@ -5,7 +5,7 @@
     <div class="card h-100">
         <div class="maxthumb">
             <a href="{{ post.url | absolute_url }}">
-                {% if post.image %} <img class="img-fluid" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}" style="width: 198px; object-fit: cover;"> {% endif %}
+                {% if post.image %} <img class="img-fluid" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}" style="width: 100%;height: 198px; object-fit: cover;"> {% endif %}
 
                 {% if post.video %} <iframe width="100%" height="198px" src="https://www.youtube.com/embed/{{post.video}}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> {% endif %}
             </a>

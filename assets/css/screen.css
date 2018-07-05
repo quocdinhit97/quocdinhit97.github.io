@@ -18,6 +18,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
  a {
      color:#00ab6b;
+     text-decoration: none;
      transition:all 0.2s;
 }
 
@@ -26,7 +27,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
  a:hover {
-     color: #038252;
+     color: #009900;
      text-decoration:none;
 }
  pre {

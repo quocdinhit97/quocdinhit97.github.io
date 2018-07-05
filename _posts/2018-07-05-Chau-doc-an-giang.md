@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Video Travel 1] Từ Chầu Đốc Đến Hà Tiên"
+title:  "[Video Travel 1] Từ Châu Đốc Đến Hà Tiên"
 author: quocdinhit
 categories: travel
 video: Jlkb5txOXZ0

@@ -1,20 +1,19 @@
 # Site
 name: "Quốc Định"
-description: "Blog của quốc định"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+description: "Developer PHP"
+meta_description: "Chia se kien thuc, hoc hoi, huong dan, cung tien bo"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'Quốc Định IT'
+mailchimp-list: 'https://facebook.com/PhungQuocDinh'
 
 # Authors
 authors:
   quocdinhit:
     name: Quốc Định
     display_name: Quốc Định
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: pqd1997@gmail.com
     web: https://www.quocdinhit.tk
     facebook:  https://facebook.com/PhungQuocDinh
@@ -22,7 +21,6 @@ authors:
   quocdinh:
     name: Quốc Định
     display_name: Quốc Định
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: pqd1997@gmail.com
     web: https://www.quocdinhit.tk
     facebook: https://facebook.com/PhungQuocDinh

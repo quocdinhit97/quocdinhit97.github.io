@@ -1,4 +1,7 @@
 
-span.thin, b{
+.thin,{
 		display: none;
+}
+b{
+	display: none;
 }

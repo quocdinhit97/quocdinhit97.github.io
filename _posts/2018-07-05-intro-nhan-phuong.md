@@ -5,7 +5,7 @@ author: quocdinhit
 categories: tutorial
 video: Dn3B_8cNmPo
 image: assets/images/biant.png
-featured: true
+
 ---
 Đây là thủ thuật nhỏ giúp bạn nhắn tin dễ gây ấn tượng hơn trên facebook của mình. 
 

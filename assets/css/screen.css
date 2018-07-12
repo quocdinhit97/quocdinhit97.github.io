@@ -148,6 +148,7 @@ License: https://www.wowthemes.net/freebies-license/
      float:left;
      margin-right:13px;
      border-radius:100%;
+     display: block;
 }
  .post-top-meta {
      margin-bottom:2rem;

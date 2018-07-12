@@ -6,7 +6,7 @@ categories: chuyen-cua-it
 image: assets/images/77e695b073a892f6cbb9.jpg
 featured: true
 ---
-Là sinh viên mà, đứa nào mà không muốn ra trường có việc làm ngay, mình cũng vậy thôi. Mà trước khi ra trường đi làm thì phải trải qua quá trình thực tập...
+Sau khi đậu phỏng vấn nhóm tôi gồm 3 thành viên (Tôi, Hiếu và Nhẫn) xuất phát lên Sài Gòn 
 
 
 

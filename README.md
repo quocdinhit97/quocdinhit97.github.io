@@ -40,7 +40,6 @@ Sau khi Fork template về bạn tiến hành với các bước sau đây:
     - meta description (optional) - <code>description: "this is my meta description"</code> (Mô tả của bài post)
     
 Một số ví dụ: 
-<pre>
 ---
 layout: post
 title:  "Đây là bài post đầu tiên"

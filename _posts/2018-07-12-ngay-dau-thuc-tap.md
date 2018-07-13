@@ -13,7 +13,7 @@ Nhà quê lên Sài Gòn chắc chắn sẽ gặp rất nhiều khó khăn. Lúc
 Ngày 3-6-2018 tôi cùng đồng đội (Hiếu, Nhẫn) khăn gối lên đường, 3 thằng cũng thường đi chơi xa nên kinh nghiệm lái xe đi xa cũng ổn. Vừa đi vừa nghỉ sau gần 4 tiếng cũng tới Sài Gòn (đi từ 8h đến gần 12h). Cảm nhận đầu tiên khi đặt chân vào đất Sài Gòn là "Đông kinh khủng", người đông, xe đông, đường thì từa lưa chả biết đường mà quẹo, ninja buổi trưa thì đầy đường.
 
 ![walking]({{ site.baseurl }}/assets/images/7da972b63baddaf383bc.jpg)
->>ảnh minh họa thôi
+>ảnh minh họa thôi
 
 3 thằng đi tới Vòng Xoay An Lạc phải tách nhau ra do không cùng chổ ở ( 3 thằng ở 3 quận). Khó khăn đầu tiên nó đã đến, đi chung với nhau thì tự tin vãi ra, giờ đi riêng mới biết sợ. Chỉ có con điện thoại làm người bạn chỉ đường, vừa chạy vừa ngừng móc điện thoại ra coi google maps. Trên xe có gắn cái kẹp điện thoại mà có dám gắn điện thoại lên đâu, lỡ anh nào vui tay chạy ngang hốt mất thì xác định xuân này con không về, nó mà dực không được thì cũng té sấp mặt xuống đường. Vừa chạy vừa cảnh giác vừa dừng lại coi google maps từ từ rồi cũng mò được đến chổ ở.
 
@@ -35,7 +35,11 @@ Tới tầng 16 nơi đầu tiên chúng tôi chọn vào không phải là côn
 
 Sau khi selfie chém gió các kiểu, bọn tôi tiến vào công ty.
 
-Nhìn qua cửa kính thấy chị HR thật dễ thương em nhìn chị, chị nhìn em, hai chị em nhìn nhau chả ai biết ai. Phần vì ngại phần vì chưa tới 8h30 nên bọn tôi không dám hó hé gì, nhìn chị HR xíu rồi bọn tôi quyết định ra lang cang đứng đợi 8h30 rồi gõ cửa vào. Khoảng 8h30 thì bọn tôi gõ cửa, chị HR mở cửa và mời bọn tôi vào phòng họp, ngồi đợi xíu thì có thêm thành viên mới đó làm chị làm bên BA ngày đầu vô công ty làm. Chị nhỏ nhỏ xinh xinh nhưng lại lớn hơn tụi tui tận 4 tuổi (lớn quá sao cưa), 4 đứa ngồi nói chuyện làm quen với nhau một hổi thì chị HR vào phổ biến nội qui các kiểu rồi dẫn tụi tui ra giới thiệu với các thành viên trong công ty, giới thiệu xong chúng tôi được đưa vào chổ ngồi đã sắp trước, tôi với Hiếu ngồi gần nhau còn thằng Nhẫn nó ở khu riêng do nó làm ASP.NET. Mọi chuyện diễn ta bình thường, ngày đầu tiên làm việc của bọn tôi bắt đầu.
+Nhìn qua cửa kính thấy chị HR thật dễ thương em nhìn chị, chị nhìn em, hai chị em nhìn nhau chả ai biết ai. Phần vì ngại phần vì chưa tới 8h30 nên bọn tôi không dám hó hé gì, nhìn chị HR xíu rồi bọn tôi quyết định ra lang cang đứng đợi 8h30 rồi gõ cửa vào.
+
+![walking]({{ site.baseurl }}/assets/images/20180713_123259.jpg)
+
+Khoảng 8h30 thì bọn tôi gõ cửa, chị HR mở cửa và mời bọn tôi vào phòng họp, ngồi đợi xíu thì có thêm thành viên mới đó làm chị làm bên BA ngày đầu vô công ty làm. Chị nhỏ nhỏ xinh xinh nhưng lại lớn hơn tụi tui tận 4 tuổi (lớn quá sao cưa), 4 đứa ngồi nói chuyện làm quen với nhau một hổi thì chị HR vào phổ biến nội qui các kiểu rồi dẫn tụi tui ra giới thiệu với các thành viên trong công ty, giới thiệu xong chúng tôi được đưa vào chổ ngồi đã sắp trước, tôi với Hiếu ngồi gần nhau còn thằng Nhẫn nó ở khu riêng do nó làm ASP.NET. Mọi chuyện diễn ta bình thường, ngày đầu tiên làm việc của bọn tôi bắt đầu.
 
 
 

@@ -21,11 +21,16 @@ Ngày 3-6-2018 tôi cùng đồng đội (Hiếu, Nhẫn) khăn gối lên đư�
 
 Do 3 thằng ở 3 quận khác nhau nên đường đến công ty cũng hoàn toàn khác nhau, tự thằng nào thì nấy mò đường đi và hẹn gặp nhau ở trước công ty. Từ nhà để qua được tới công ty phải chạy xe 20p dù đoạn đường nó chỉ dài có 8km. Lúc đầu tưởng google maps nó tính toán sai, khi ra đường rồi mới biết nó thật sự thông minh, chỉ 8km thôi nhưng biết bao cái đèn đỏ, biết bao cái vòng xoay, xe máy di chuyển trên đường thì đông như kiến, ai cũng tranh thủ đi làm nên chạy xe như siêu nhân, qua mặt được thì qua mặt, vượt đèn đỏ được thì vượt. `Mạnh ai nấy chạy, đụng ai nấy chịu`.
 
-Thử nghĩ tới cảnh đang chạy xe mà mắt ỉ* thì thôi xác định quất tại chổ. Chạy cà nhít cà nhít tới nhà thì đầy quẩn.
+Thử nghĩ tới cảnh đang chạy xe mà mắt ỉ* thì thôi xác định quất tại chổ. Chạy cà nhít cà nhít tới nhà thì đầy quần.
 
 ![walking]({{ site.baseurl }}/assets/images/20180713_071732.jpg)
 
-Hơn 20p chạy xe, chạy đúng tới cái điểm trên google maps mà chả thấy công ty ở đâu (có biết công ty nó hình dạng thế nào đâu mà thấy), trong đầu cứ nghĩ chắc bị lạt đường hay google maps nó chỉ sai hoặc là sai địa chỉ, chạy qua lại mấy vòng mất gần 20p cuối cùng cũng quay lại chổ cũ, giờ mới nhìn kĩ qua hàng cây à thì ra nó nằm ở đây.
+Hơn 20p chạy xe, chạy đúng tới cái điểm trên google maps mà chả thấy công ty ở đâu (có biết công ty nó hình dạng thế nào đâu mà thấy), trong đầu cứ nghĩ chắc bị lạt đường hay google maps nó chỉ sai hoặc là sai địa chỉ, chạy qua lại mấy vòng mất gần 20p cuối cùng cũng quay lại chổ cũ, giờ mới nhìn kĩ qua hàng cây à thì ra nó nằm ở đây, đúng số nhà này rồi, mừng vãi.
+
+<video>
+	<source src="{{ site.baseurl }}/assets/images/20180604_080010.mp4" type="video/mp4" />
+	Trình duyệt không phát được video
+</video>
 
 Tôi cùng Hiếu đứng đợi thằng Nhẫn để cùng vào công ty (chổ Nhẫn ở xa). Khoảng gần 8h thì cũng có mặt đủ 3 thành viên, kế đường vào hầm gởi xe có quán hủ tiếu nhỏ, tính toán kĩ càng mới quyết định vào ăn (mới lên sợ bị chặt), 3 tô hủ tiếu với 3 ly trà đường 108k, ok cũng được vì ở quận 1 mà. Ăn sáng xong 3 thằng nắm tay nhau tìm thang máy lên công ty, cũng mai thang máy nó nó nằm đối diện với cửa vào nên khỏi mất công tìm. Vào thang máy quất phát lên tầng 16, mà thang máy ở đây kéo nhanh kinh khủng.
 
@@ -39,7 +44,7 @@ Nhìn qua cửa kính thấy chị HR thật dễ thương em nhìn chị, chị
 
 ![walking]({{ site.baseurl }}/assets/images/20180713_123259.jpg)
 
-Khoảng 8h30 thì bọn tôi gõ cửa, chị HR mở cửa và mời bọn tôi vào phòng họp, ngồi đợi xíu thì có thêm thành viên mới đó làm chị làm bên BA ngày đầu vô công ty làm. Chị nhỏ nhỏ xinh xinh nhưng lại lớn hơn tụi tui tận 4 tuổi (lớn quá sao cưa), 4 đứa ngồi nói chuyện làm quen với nhau một hổi thì chị HR vào phổ biến nội qui các kiểu rồi dẫn tụi tui ra giới thiệu với các thành viên trong công ty, giới thiệu xong chúng tôi được đưa vào chổ ngồi đã sắp trước, tôi với Hiếu ngồi gần nhau còn thằng Nhẫn nó ở khu riêng do nó làm ASP.NET. Mọi chuyện diễn ta bình thường, ngày đầu tiên làm việc của bọn tôi bắt đầu.
+Khoảng 8h30 thì bọn tôi gõ cửa, chị HR mở cửa và mời bọn tôi vào phòng họp, ngồi đợi xíu thì có thêm thành viên mới đó làm chị làm bên BA ngày đầu vô công ty làm. Chị nhỏ nhỏ xinh xinh nhưng lại lớn hơn tụi tui tận 4 tuổi (lớn quá sao cưa), 4 đứa ngồi nói chuyện làm quen với nhau một hồi thì chị HR vào phổ biến nội qui các kiểu rồi dẫn tụi tui ra giới thiệu với các thành viên trong công ty, giới thiệu xong chúng tôi được đưa vào chổ ngồi đã sắp trước, tôi với Hiếu ngồi gần nhau còn thằng Nhẫn nó ở khu riêng do nó làm ASP.NET. Mọi chuyện diễn ta bình thường, ngày đầu tiên làm việc của bọn tôi bắt đầu.
 
 
 

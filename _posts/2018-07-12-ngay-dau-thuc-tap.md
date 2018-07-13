@@ -27,11 +27,6 @@ Thử nghĩ tới cảnh đang chạy xe mà mắt ỉ* thì thôi xác định 
 
 Hơn 20p chạy xe, chạy đúng tới cái điểm trên google maps mà chả thấy công ty ở đâu (có biết công ty nó hình dạng thế nào đâu mà thấy), trong đầu cứ nghĩ chắc bị lạt đường hay google maps nó chỉ sai hoặc là sai địa chỉ, chạy qua lại mấy vòng mất gần 20p cuối cùng cũng quay lại chổ cũ, giờ mới nhìn kĩ qua hàng cây à thì ra nó nằm ở đây, đúng số nhà này rồi, mừng vãi.
 
-<video>
-	<source src="{{ site.baseurl }}/assets/images/20180604_080010.mp4" type="video/mp4" />
-	Trình duyệt không phát được video
-</video>
-
 Tôi cùng Hiếu đứng đợi thằng Nhẫn để cùng vào công ty (chổ Nhẫn ở xa). Khoảng gần 8h thì cũng có mặt đủ 3 thành viên, kế đường vào hầm gởi xe có quán hủ tiếu nhỏ, tính toán kĩ càng mới quyết định vào ăn (mới lên sợ bị chặt), 3 tô hủ tiếu với 3 ly trà đường 108k, ok cũng được vì ở quận 1 mà. Ăn sáng xong 3 thằng nắm tay nhau tìm thang máy lên công ty, cũng mai thang máy nó nó nằm đối diện với cửa vào nên khỏi mất công tìm. Vào thang máy quất phát lên tầng 16, mà thang máy ở đây kéo nhanh kinh khủng.
 
 Tới tầng 16 nơi đầu tiên chúng tôi chọn vào không phải là công ty mà là nhà vệ sinh (lúc đó cũng chịu hết nổi rồi). Thật sự đó là sự lựa chọn đúng đắng, ngoài việc thanh lý nỗi buồn thì ở đây view ra ngoài vô cùng đẹp, sống ảo ở đây thì cực kì chuẩn.

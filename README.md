@@ -1,6 +1,6 @@
-# Jekyll Template - Mediumish by WowThemes.net
+# Bạn có thể tải template này hoàn toàn miễn phí do mình tự custom lại
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip)
+[Xem Demo](https://quocdinhit.tk) &nbsp; | &nbsp; [Download](https://github.com/quocdinhit97/quocdinhit97.github.io)
 
 ![mediumish](assets/images/mediumish-jekyll-template.png)
 

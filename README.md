@@ -2,24 +2,21 @@
 
 [Xem Demo](https://quocdinhit.tk) &nbsp; | &nbsp; [Download](https://github.com/quocdinhit97/quocdinhit97.github.io)
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+![mediumish](assets/images/cover.png)
 
-### Features
+### Tính nằng
 
-- Built for Jekyll
-- Compatible with Github pages
-- Featured Posts
-- Index Pagination
-- Post Share
-- Post Categories
-- Prev/Next Link
-- Category Archives (this is not yet compatible with github pages though)
-- Jumbotron Categories
-- Integrations:
-    - Disqus Comments
+- Xây dựng bởi Jekyll
+- Tương thích với Github pages
+- Viết bài
+- Phân trang
+- Chia sẽ bài viết
+- Tích hợp:
+    - Facebook Comments
     - Google Analaytics
     - Mailchimp Integration
-- Design Features:
+    - tawk.to chat
+- Xây dựng bởi:
     - Bootstrap v4.x
     - Font Awesome
     - Masonry
@@ -29,56 +26,46 @@
     - Page
     - Archive
     
-### Using Mediumish
+### Cách dùng
 
-- Open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, disqus username, authors, Mailchimp list etc.
-- Mediumish requires 2 plugins: 
+- Mở file <code>_config.yml</code>. Thay đổi thông một số thông tin như tiêu đề trang, thông tin kết nối với Google Analytics code, Facebook Comments, authors.
+- Cài đặt 2 plugins bằng cách chạy 2 đoạn code sau: 
     - <code>$ gem install jekyll-paginate</code>
     - <code>$ gem install jekyll-archives</code>.
-- Edit the menu and footer copyrights in <code>default.html</code>
-- Start by adding your .md files in <code>_posts</code>. Mediumish already has a few as an example. 
-- YAML front matter
-    - featured post - <code>featured:true</code>
-    - exclude featured post from "All stories" loop to avoid duplicated posts - <code>hidden:true</code>
-    - post image - <code>image: assets/images/mypic.jpg</code>
-    - page comments - <code>comments:true</code>
-    - meta description (optional) - <code>description: "this is my meta description"</code>
+- Chỉnh sửa menu và footer trong file <code>default.html</code>
+- Để tạo bài post bạn thêm file .md trong thư mục _post 
+- Thêm một số thông tin sau ở phần trên cùng
+    - featured post - <code>featured:true</code> (featured:true là post hot)
+    - post image - <code>image: assets/images/mypic.jpg</code> (Khai báo phần ảnh bìa cho bài post)
+    - meta description (optional) - <code>description: "this is my meta description"</code> (Mô tả của bài post)
     
-YAML Post Example:
+Một số ví dụ: 
 <pre>
 ---
 layout: post
-title:  "We all wait for summer"
-author: john
-categories: [ Jekyll, tutorial ]
+title:  "Đây là bài post đầu tiên"
+author: quocdinhit
+categories: [ quoc-dinh, tutorial ]
 image: assets/images/5.jpg
 featured: true
 ---
 </pre>
 
-YAML Page Example
+Hoặc ví dụ này: 
 <pre>
 ---
 layout: page
-title: Mediumish Template for Jekyll
-comments: true
+title: Đầy là bài post thứ 2
+featured:true
 ---
 </pre>
 
 ### Copyright
 
-Copyright (C) 2018 WowThemes.net.
+Copyright (C) 2018 Quốc Định.
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
-
-<a href="https://www.buymeacoffee.com/sal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Contribute
-
-- [Clone the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-- Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-- Open a pull request on GitHub and describe the feature or fix.
+Cảm ơn bạn đã theo dỏi blog của tôi!
 
 -----------------
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip)
+[Facebook của tôi](https://www.facebook.com/PhungQuocDinh) &nbsp; | &nbsp; [Youtube của tôi](https://www.youtube.com/channel/UCwXIeWhUBsUDkSMzUW_sazA)

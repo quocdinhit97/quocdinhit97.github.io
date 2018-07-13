@@ -2,7 +2,7 @@
 
 [Xem Demo](https://quocdinhit.tk) &nbsp; | &nbsp; [Download](https://github.com/quocdinhit97/quocdinhit97.github.io)
 
-![mediumish](../../assets/images/cover.png)
+![mediumish](assets/images/cover.png)
 
 ### Tính nằng
 

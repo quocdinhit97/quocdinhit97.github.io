@@ -6,7 +6,7 @@ categories: chuyen-cua-it
 image: assets/images/77e695b073a892f6cbb9.jpg
 featured: true
 ---
-Sống ở quê 21 năm rồi, giờ chơi lớn lên Sài Gòn ở thử xem nó có khác gì ở quê hông!
+Nhà quê lên Sài Gòn chắc chắn sẽ gặp rất nhiều khó khăn. Lúc này đối mặt trước mai mốt đở phải bở ngở. 
 
 ## Từ Trà Vinh lên Sài Gòn
 

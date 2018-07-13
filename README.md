@@ -4,7 +4,7 @@
 
 ![mediumish](assets/images/cover.png)
 
-### Tính nằng
+### Tính năng
 
 - Xây dựng bởi Jekyll
 - Tương thích với Github pages
@@ -27,7 +27,7 @@
     - Archive
     
 ### Cách dùng
-
+Sau khi Fork template về bạn tiến hành với các bước sau đây: 
 - Mở file <code>_config.yml</code>. Thay đổi thông một số thông tin như tiêu đề trang, thông tin kết nối với Google Analytics code, Facebook Comments, authors.
 - Cài đặt 2 plugins bằng cách chạy 2 đoạn code sau: 
     - <code>$ gem install jekyll-paginate</code>
